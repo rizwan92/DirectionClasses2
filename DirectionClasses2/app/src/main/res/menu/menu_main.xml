@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/notification"
+        android:icon="@drawable/notification"
+        android:orderInCategory="100"
+        android:title="Notification"
+        app:showAsAction="always"/>
+
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/search"
+        android:orderInCategory="100"
+        android:title="Search"
+        app:showAsAction="always"/>
+
+  <!--  <item
+        android:id="@+id/update"
+        android:icon="@drawable/navigation_back"
+        android:orderInCategory="100"
+        android:title="update"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/save"
+        android:icon="@drawable/navigation_back"
+        android:orderInCategory="100"
+        android:title="save"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/help"
+        android:icon="@drawable/navigation_back"
+        android:orderInCategory="100"
+        android:title="help"
+        app:showAsAction="never"/>-->
+
+</menu>
